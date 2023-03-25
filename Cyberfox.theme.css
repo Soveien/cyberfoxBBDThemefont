@@ -5,12 +5,12 @@
  * @version 1
  */
 
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
 @import url('https://foxesarecute.github.io/cyberfoxBBDTheme/cyberfoxAlbetross.css'); /*Main theme import, credit to rmkx for some of the assets*/
 
 
 :root {
---font: 'VT323', monospace;
+--font: 'Gaegu', monospace;
 
 }
 
